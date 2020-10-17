@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "adaline"
+    }
+  },
+  "defaultProject": "adaline",
+  "cli": {
+    "analytics": "c9bb2892-32f1-40b2-8db0-b3166e3203b6"
+  }
 }
